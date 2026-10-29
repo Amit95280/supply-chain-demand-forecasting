@@ -1,0 +1,6 @@
+{
+  "MAE": 5.538,
+  "RMSE": 7.513,
+  "MAPE": 8.471,
+  "validation_days": 60
+}
